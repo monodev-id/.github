@@ -1,36 +1,49 @@
 <p align="center">
-  <img src="./monodevbanner.png" alt="Monodev.id Logo" width="1000">
+  <img src="./monodevbanner.png" alt="Monodev.id Banner" width="100%">
 </p>
 
 <h1 align="center">Monodev.id</h1>
 
 <p align="center">
-  Komunitas mahasiswa <strong>Teknik Informatika</strong> dan <strong>Pendidikan Teknik Informatika</strong><br>
-  Ngoding • Sharing • Kolaborasi • Edukasi Digital
+  <strong>Komunitas Mahasiswa Teknik Informatika & Pendidikan Teknik Informatika</strong><br>
+  Ngoding · Sharing · Kolaborasi · Edukasi Digital
 </p>
 
 ---
 
-**Monodev.id** adalah komunitas mahasiswa **Teknik Informatika** dan **Pendidikan Teknik Informatika**  
-yang berfokus pada **ngoding, sharing ilmu, kolaborasi, dan edukasi digital**.
+## Tentang Monodev.id
+**Monodev.id** adalah komunitas mahasiswa **Teknik Informatika** dan  
+**Pendidikan Teknik Informatika** yang berfokus pada pengembangan kemampuan  
+**teknologi, pemrograman, dan edukasi digital** melalui kolaborasi dan pembelajaran bersama.
 
-## - Tujuan
+---
+
+## 🎯 Tujuan
 - Mengembangkan skill pemrograman dan teknologi informasi
 - Mendorong kolaborasi antar mahasiswa TI & Pendidikan TI
 - Menjadi wadah belajar dan berbagi secara aktif dan berkelanjutan
 
-## - Aktivitas
+---
+
+## 🚀 Aktivitas
 - Diskusi teknologi & pendidikan IT
 - Kolaborasi proyek nyata
 - Sharing session & learning bersama
 - Pengembangan software & media edukasi
 
-## - Nilai Utama
+---
+
+## 🤝 Nilai Utama
 **Belajar serius · Diskusi santai · Satu visi**  
 Menjadi **developer dan pendidik IT yang relevan dan berdampak**.
 
-## - Lokasi
+---
+
+## 🌐 Lokasi
 📍 Indonesia
 
 ---
-> **Monodev.id — One Vision, One Dev**
+
+<p align="center">
+  <strong>Monodev.id — One Vision, One Dev</strong>
+</p>
