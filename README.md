@@ -40,7 +40,7 @@ Menjadi **developer dan pendidik IT yang relevan dan berdampak**.
 ---
 
 ## 🌐 Lokasi
-📍 Indonesia
+📍 Padang,Indonesia
 
 ---
 
