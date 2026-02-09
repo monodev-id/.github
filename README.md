@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./monodevbanner.png" alt="Monodev.id Logo" width="300">
+  <img src="./monodevbanner.png" alt="Monodev.id Logo" width="1000">
 </p>
 
 <h1 align="center">Monodev.id</h1>
